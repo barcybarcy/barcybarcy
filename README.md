@@ -31,8 +31,6 @@ I am a Computer Science student at Kyonggi University, passionate about building
 - **Email:** joesu001@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/sumin-jo-b1a77a1a4
 
-[![LeetCode Stats](https://leetcode-stats-github-api.vercel.app/api?username=joesu001&theme=dark)](https://leetcode.com/joesu001/)
-[![LeetCode Badge](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=LeetCode&query=$.solved&url=https%3A%2F%2Fleetcode-badge-showcase.vercel.app%2Fapi%3Fusername%3Djoesu001)](https://leetcode.com/joesu001/)
 <!--
 **barcybarcy/barcybarcy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
