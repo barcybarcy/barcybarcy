@@ -22,8 +22,8 @@ I am a Computer Science student at Kyonggi University, passionate about building
 ---
 
 ### 📚 Content & Thoughts
-- **Velog/Tistory:** 
-- **YouTube:** 
+- **Blog:** https://velog.io/@barcybarcy/posts
+- **YouTube:** https://www.youtube.com/channel/UC_hv1aILV93Tb75PyRcOw3g
 
 ---
 
