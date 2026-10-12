@@ -21,13 +21,8 @@ I am a Computer Science student at Kyonggi University, passionate about building
 
 ---
 
-### 📚 Content & Thoughts
-- **Blog:** https://velog.io/@barcybarcy/posts
-- **YouTube:** https://www.youtube.com/channel/UC_hv1aILV93Tb75PyRcOw3g
-
----
-
 ### 📫 Connect with Me
+- **Portfolio:** [barcybarcy.github.io](https://barcybarcy.github.io/)
 - **Email:** joesu001@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/sumin-jo-b1a77a1a4
 
