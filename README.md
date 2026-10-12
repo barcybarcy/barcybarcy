@@ -1,28 +1,20 @@
 # Hi there, I'm Joe 👋
 
+[Check my portfolio](https://barcybarcy.github.io/)
+
 ### 🚀 A Developer with Business Insight
-I am a Computer Science student at Kyonggi University, passionate about building services that solve real-world problems. With a background in running an e-commerce business, I focus not only on writing code but also on creating value for users.
-
----
-
-### 🛠 Tech Stack
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-
-**Interests**
-![AI](https://img.shields.io/badge/AI-FF6F00?style=flat&logo=google-cloud&logoColor=white) ![CFD](https://img.shields.io/badge/CFD-00599C?style=flat&logo=cplusplus&logoColor=white)
+I am a Computer Science student at Kyonggi University with an interest in Computational Fluid Dynamics (CFD) and AI. With a background in running an e-commerce business, I enjoy building services that solve real-world problems and create value for users.
 
 ---
 
 ### 🔭 Current Projects
-**1. AI-Based Solution for Empty Nose Syndrome (ENS)**
+**AI-Based Solution for Empty Nose Syndrome (ENS)**
 - Developing a machine learning plug using CFD (Computational Fluid Dynamics)
 - **Keywords:** AI, CFD, Medical Engineering
 
 ---
 
 ### 📫 Connect with Me
-- **Portfolio:** [barcybarcy.github.io](https://barcybarcy.github.io/)
 - **Email:** joesu001@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/sumin-jo-b1a77a1a4
 
